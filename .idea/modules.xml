@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/ubuntu12.04/thomas/data_ecovacs/design_data/app/test/component/Service/aidl/AidlDemo/AidlDemoServer/AidlDemoServer.iml" filepath="$USER_HOME$/ubuntu12.04/thomas/data_ecovacs/design_data/app/test/component/Service/aidl/AidlDemo/AidlDemoServer/AidlDemoServer.iml" />
+      <module fileurl="file://$USER_HOME$/ubuntu12.04/thomas/data_ecovacs/design_data/app/test/component/Service/aidl/AidlDemo/AidlDemoServer/app/app.iml" filepath="$USER_HOME$/ubuntu12.04/thomas/data_ecovacs/design_data/app/test/component/Service/aidl/AidlDemo/AidlDemoServer/app/app.iml" />
+    </modules>
+  </component>
+</project>
